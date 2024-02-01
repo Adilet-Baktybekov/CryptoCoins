@@ -41,7 +41,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-.metadata/
+.metadata
 
 # Firebase config files
 /android/app/google-services.json
@@ -49,3 +49,9 @@ app.*.map.json
 /macos/Runner/GoogleService-Info.plist
 /linux/Runner/GoogleService-Info.plist
 /windows/Runner/GoogleService-Info.plist
+
+/android/
+/ios/
+/macos/
+/linux/
+/windows/
